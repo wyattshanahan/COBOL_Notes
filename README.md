@@ -1,2 +1,18 @@
-# COBOL_Notes
-Code and Notes from a COBOL workshop
+# COBOL Workshop Notes
+
+This repository contains code and notes from a COBOL workshop.
+
+## Structure
+
+This repository is laid out in two directories, Notes and Code. Each section of the workshop is broken down into a module (see below) and numbered accordingly. Each code file is prefixed with the corresponding module number.
+
+00. Introduction
+01. Getting Started
+02. Handling Data
+03. Verbs and Logic
+04. Files
+05. Sequential Files
+06. Index Files
+07. Tables
+08. String Manipulation
+09. Troubleshooting 
