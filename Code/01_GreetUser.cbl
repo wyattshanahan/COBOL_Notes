@@ -1,6 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. "GREETUSER".
        AUTHOR.     WYATT SHANAHAN.
+      * CH1_06 Program to take input and greet user
        ENVIRONMENT DIVISION.
 
        DATA DIVISION.
