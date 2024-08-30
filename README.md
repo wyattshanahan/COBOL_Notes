@@ -2,6 +2,9 @@
 
 This repository contains code and notes from a COBOL workshop.
 
+A good reference resource is the [GNU COBOL Programmer's Guide](https://gnucobol.sourceforge.io/HTML/gnucobpg.html)
+
+
 ## Structure
 
 This repository is laid out in two directories, Notes and Code. Each section of the workshop is broken down into a module (see below) and numbered accordingly. Each code file is prefixed with the corresponding module number.
